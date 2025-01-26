@@ -69,3 +69,8 @@ The objective of the code is to create a responsive, user-friendly e-commerce we
 ****JavaScript:****
 
   * Handles menu toggle functionality, enabling and disabling the menu for mobile users.
+
+# OUTPUT:
+
+![Screenshot 2025-01-26 201123](https://github.com/user-attachments/assets/073c42c1-e868-4be4-b64c-0ee590993d2a)
+
